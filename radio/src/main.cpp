@@ -509,9 +509,7 @@ void perMain()
 
 #if defined(RTC_BACKUP_RAM)
   if (UNEXPECTED_SHUTDOWN()) {
-
     drawFatalErrorScreen(STR_EMERGENCY_MODE);
-
     return;
   }
 #endif
