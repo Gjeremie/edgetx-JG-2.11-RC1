@@ -12,7 +12,7 @@
 <a href="https://raw.githubusercontent.com/EdgeTX/edgetx.github.io/master/docs/assets/logo.png"><img src="https://raw.githubusercontent.com/EdgeTX/edgetx.github.io/master/docs/assets/logo.png" align="center" height="150" width="150" ></a>
 
 # Edge TX 2.11
-**Version JG perso sans le commit 5686 **
+**Version JG perso sans le commit 5686**
 
 
 ### Modifs EdgeTX
