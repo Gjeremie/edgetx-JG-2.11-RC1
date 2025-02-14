@@ -18,6 +18,6 @@
 ### Modifs EdgeTX
 - Suppression du commit 5686 qui provoquait des reset du tps/date a chaque mise sous tension Radio
 
-- Maintenir a jour cette branche (update
+- Maintenir a jour cette branche (sync fork)
 
 
