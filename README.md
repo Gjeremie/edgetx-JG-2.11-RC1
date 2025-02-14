@@ -11,11 +11,13 @@
 <p align="center">
 <a href="https://raw.githubusercontent.com/EdgeTX/edgetx.github.io/master/docs/assets/logo.png"><img src="https://raw.githubusercontent.com/EdgeTX/edgetx.github.io/master/docs/assets/logo.png" align="center" height="150" width="150" ></a>
 
-# Edge TX 2.11!
+# Edge TX 2.11
 **Version JG perso sans le commit 5686 **
 
 
-### About EdgeTX
+### Modifs EdgeTX
 - Suppression du commit 5686 qui provoquait des reset du tps/date a chaque mise sous tension Radio
+
+- Maintenir a jour cette branche (update
 
 
