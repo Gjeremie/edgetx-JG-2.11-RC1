@@ -24,6 +24,6 @@ mv firmware.bin edgetx_mt12_3d1e7a9_6_dec_2024.bin
 
 https://gitpod.io/#https://github.com/edgetx/edgetx/tree/2b920a014b0d69684eecfc20a74855d8b553e005
 
-cd /workspace/edgetx/
+cd /workspace/edgetx-JG-2.11-RC1/
 
 FLAVOR=mt12 tools/build-gh.sh
